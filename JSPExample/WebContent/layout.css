@@ -1,0 +1,7 @@
+ html, body { height: 100%; background-color: #ffffff}  /* body soll auf H�he des Browserfensters ausgedehnt werden */
+
+ table {   
+  margin: auto;
+  border: 0;
+}
+

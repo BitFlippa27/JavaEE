@@ -1,0 +1,232 @@
+body{
+    
+}
+
+div{
+    border-radius: 20px;
+}
+
+h1{
+    color: #ffffff;
+    font-size: 70px;
+}
+
+h2{
+    font-size: 40px;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+h5{
+    padding-top: 13px;
+    padding-left: 15px;
+}
+
+.center-block{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+    height: 850px;
+    background-color: #225579;
+    border-top: 6px solid;
+    border-color: #b1b1b1;
+}
+
+#Kopfbereich{
+    width: 1200px;
+    height: 100px;
+    background-color: #102839;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+
+}
+
+#QuizIcon{
+    margin-top: 10px;
+    color: #ffffff;
+    float: left;
+}
+
+#Ueberschrift{
+    font-family: inherit;
+}
+
+#webquiz {
+	padding: 12px;
+	box-sizing: border-box;
+}
+
+#MainArea{
+    width: 1200px;
+    height: 600px;
+    display: block;
+    margin-top: 20px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#Hauptansicht{
+    width: 850px;
+    height: 600px;
+    float: left;
+    background-color: #102839;
+}
+
+#Catalog{
+    width: 330px;
+    height: 300px;
+    background-color: #102839;
+    float: right;
+    position: relative;
+}
+
+#Score{
+    width: 330px;
+    height: 280px;
+    margin-top: 20px;;
+    background-color: #102839;
+    float: right;
+    position: relative;
+}
+
+#Fußzeile{
+    width: 1200px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #102839;
+}
+
+#Copyright{
+    margin-left: 20px;
+    position: absolute;
+	color: gray;
+}
+
+#Login{
+    height: 300px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+#uname{
+    font-size: 30px;
+    background-color: #225579;
+}
+#LoginFeld{
+    font-size: 40px;
+    padding-top: 75px;
+    
+}
+
+#Username{
+        color: #ffffff;
+}
+
+#uname{
+        color: rgba(255, 255, 255, 0.21);
+}
+
+#Login_Button{
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+#CatalogTitle{
+    font-size: 20px;
+}
+
+
+.cat{
+	display: block;
+    font-size: 25px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#cat1{
+    width: 300px;
+    height: 50px;
+    background-color: #225579;
+    margin: auto;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-left: 8px;
+    position: relative;
+    
+}
+
+#cat2{
+    width: 300px;
+    height: 50px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-top: 7px;
+    background-color: #225579;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-left: 8px;
+    position: relative;
+}
+
+#cat3{
+    width: 300px;
+    height: 50px;
+    margin-left: auto;
+	margin-right: auto;
+	margin-top: 7px;
+    background-color: #225579;
+	padding-top: 10px;
+	padding-left: 8px;
+	box-sizing: border-box;
+    position: relative;
+}
+
+#player{
+    float: left;
+    margin-left: 20px;
+    margin-top: -30px;
+    font-size: 20px;
+	color: white;
+}
+
+#score{
+    float: right;
+    margin-right: 110px;
+    margin-top: -30px;
+    font-size: 20px;
+	color: white;
+}
+
+#Player_Score_Table{
+    width: 100%; 
+	padding-left: 20px;
+	padding-right: 30%;
+    background-color: #102839;
+	color:white;
+	
+}
+
+#table tr:nth-child(even) {
+    background-color: #102839;
+}
+#table tr:nth-child(odd) {
+   background-color:#225579;
+}
+
+#waitScreen{
+	color: white;
+	font-size: 20px;
+	display: block;
+}
+
+#questionwindow{
+	color: white;
+}

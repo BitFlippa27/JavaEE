@@ -1,0 +1,33 @@
+ html, body { height: 100%; }  /* body soll auf H�he des Browserfensters ausgedehnt werden */
+
+ table {   /*width: 200px; */
+  margin: auto;
+  border: 1px solid black;
+  padding: 0px;
+  background-color:gray;
+
+}
+
+td 
+{ border: 1px solid black;
+  padding: 0px;
+}
+
+.is1,.is2,.is3,.is4,.is5,.is6,.is7,.is8
+{
+ /* background-color:gray;*/
+ width: 100px;
+ height: 100px;
+ font-size: large;
+}
+.isnull
+{
+ visibility: hidden;
+ display: none;
+}
+.SessionAnzeige
+{
+	display: block;
+	background-color:yellow;
+}
+
